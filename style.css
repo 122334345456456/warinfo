@@ -1,0 +1,911 @@
+.page,
+.page * {
+  box-sizing: border-box;
+}
+.page {
+  background: #ffffff;
+  height: 11164px;
+  position: relative;
+  overflow: hidden;
+}
+.active-cases {
+  position: absolute;
+  inset: 0;
+}
+.big-statement {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1181px;
+  position: absolute;
+  left: 392px;
+  top: 343px;
+  overflow: hidden;
+}
+.there-are-1-349-166-active-cases-of-coronavirus-in-the-world-as-of-april-13 {
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.there-are-1-349-166-active-cases-of-coronavirus-in-the-world-as-of-april-13-span {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+}
+.there-are-1-349-166-active-cases-of-coronavirus-in-the-world-as-of-april-13-span2 {
+  color: #bd0000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+}
+.there-are-1-349-166-active-cases-of-coronavirus-in-the-world-as-of-april-13-span3 {
+  color: #000000;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+}
+.that-s-70-640-3-83-more-than-the-day-before-and-88-281-more-since-your-last-visit-2-days-ago {
+  color: #5b5b5b;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.divider {
+  width: 20px;
+  height: 5px;
+  position: absolute;
+  left: 392px;
+  top: 258px;
+}
+.divider2 {
+  background: #000000;
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.big-statement2 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 22.75%;
+  height: 5.13%;
+  position: absolute;
+  right: 55.1%;
+  left: 22.15%;
+  bottom: 80.65%;
+  top: 14.22%;
+  overflow: hidden;
+}
+.there-are-1-349-166-active-cases-of-coronavirus-in-the-world-as-of-april-132 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.divider3 {
+  width: 0.89%;
+  height: 0.04%;
+  position: absolute;
+  right: 76.96%;
+  left: 22.15%;
+  bottom: 86.81%;
+  top: 13.15%;
+}
+.header {
+  position: absolute;
+  inset: 0;
+}
+._21st-century-war {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 36px;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+  position: absolute;
+  left: 396px;
+  top: 70px;
+}
+.statistics {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 18px;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+  text-transform: uppercase;
+  position: absolute;
+  left: 396px;
+  top: 108px;
+}
+.pacifism {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 15px;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+  position: absolute;
+  left: 1510px;
+  top: 70px;
+}
+.about {
+  position: absolute;
+  inset: 0;
+}
+.references {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+  position: absolute;
+  right: 840px;
+  left: 100px;
+  top: 4257px;
+}
+.d {
+  color: #707070;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 23px;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: absolute;
+  right: 100px;
+  left: 100px;
+  bottom: 6850px;
+}
+.big-statement3 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 850px;
+  position: absolute;
+  left: 100px;
+  top: 3786px;
+  overflow: hidden;
+}
+.about2 {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.coronavirus-is-a-pandemic-that-is-sweeping-the-globe-shown-here-are-some-of-the-statistics-on-how-it-spreads-over-time-across-different-countries-please-note-that-these-numbers-may-not-perfectly-reflect-reality-as-not-everyone-in-the-world-has-been-tested-and-gathering-global-health-data-is-a-hard-task-this-site-was-created-by-gbks-for-feedback-and-ideas-please-reach-out {
+  color: #707070;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 140%;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.divider4 {
+  width: 20px;
+  height: 5px;
+  position: absolute;
+  left: 100px;
+  top: 3706px;
+}
+.deaths-in-armed-conflicts-based-on-where-they-occurred-1 {
+  background: #ffffff;
+  width: 1324px;
+  height: 720px;
+  position: absolute;
+  left: 392px;
+  top: 624px;
+  overflow: hidden;
+}
+.vector {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.chart-area {
+  position: absolute;
+  inset: 0;
+}
+.numeric-color-legend {
+  width: 651.91px;
+  height: 47.38px;
+  position: static;
+}
+.lines {
+  width: 39.56%;
+  height: 0.65%;
+  position: absolute;
+  right: 25.85%;
+  left: 34.59%;
+  bottom: 22.39%;
+  top: 76.96%;
+  overflow: visible;
+}
+.swatches {
+  width: 49.24%;
+  height: 2.16%;
+  position: absolute;
+  right: 18.96%;
+  left: 31.8%;
+  bottom: 20.22%;
+  top: 77.61%;
+  overflow: visible;
+}
+.labels {
+  width: 595.38px;
+  height: 24.93px;
+  position: static;
+}
+.no-data {
+  color: #111111;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 62.67%;
+  left: 31.8%;
+  width: 5.53%;
+  bottom: 23.34%;
+  top: 73.19%;
+  height: 3.46%;
+}
+._0 {
+  color: #111111;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 56.32%;
+  left: 42.74%;
+  width: 0.94%;
+  bottom: 23.34%;
+  top: 73.19%;
+  height: 3.46%;
+}
+._1 {
+  color: #111111;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 52.4%;
+  left: 45.72%;
+  width: 1.88%;
+  bottom: 23.34%;
+  top: 73.19%;
+  height: 3.46%;
+}
+._10 {
+  color: #111111;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 45.5%;
+  left: 52.62%;
+  width: 1.88%;
+  bottom: 23.34%;
+  top: 73.19%;
+  height: 3.46%;
+}
+._100 {
+  color: #111111;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 38.12%;
+  left: 59.05%;
+  width: 2.82%;
+  bottom: 23.34%;
+  top: 73.19%;
+  height: 3.46%;
+}
+._1-000 {
+  color: #111111;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 30.61%;
+  left: 65.27%;
+  width: 4.12%;
+  bottom: 23.34%;
+  top: 73.19%;
+  height: 3.46%;
+}
+._10-000 {
+  color: #111111;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 23.23%;
+  left: 71.71%;
+  width: 5.06%;
+  bottom: 23.34%;
+  top: 73.19%;
+  height: 3.46%;
+}
+.footer {
+  position: absolute;
+  inset: 0;
+}
+.sources {
+  width: 677.58px;
+  height: 24.93px;
+  position: static;
+}
+.data-source-uppsala-conflict-data-program-2024-natural-earth-2022 {
+  color: #5b5b5b;
+  text-align: left;
+  font-family: "Lato-Bold", sans-serif;
+  font-size: 13.5px;
+  font-weight: 700;
+  position: absolute;
+  right: 48.82%;
+  left: 0%;
+  width: 51.18%;
+  bottom: 4.73%;
+  top: 91.81%;
+  height: 3.46%;
+}
+.deaths-in-armed-conflicts-based-on-where-they-occurred-2023 {
+  color: #5b5b5b;
+  text-align: left;
+  font-family: "Lato-Bold", sans-serif;
+  font-size: 23.75px;
+  font-weight: 700;
+  position: absolute;
+  right: 10.8%;
+  left: 0%;
+  width: 89.2%;
+  bottom: 12.36%;
+  top: 83.61%;
+  height: 4.03%;
+}
+.map-1-1 {
+  width: 93.73%;
+  height: 81.67%;
+  position: absolute;
+  right: 5.59%;
+  left: 0.68%;
+  bottom: 18.33%;
+  top: 0%;
+  object-fit: cover;
+}
+.number-of-armed-conflicts-1 {
+  background: #ffffff;
+  width: 42.71%;
+  height: 8.7%;
+  position: absolute;
+  right: 13.02%;
+  left: 44.27%;
+  bottom: 77.83%;
+  top: 13.47%;
+  overflow: hidden;
+}
+.vector2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  overflow: visible;
+}
+.horizontal-axis {
+  width: 594.74px;
+  height: 18.13px;
+  position: static;
+}
+.tick-labels {
+  width: 594.74px;
+  height: 18.13px;
+  position: static;
+}
+._2023 {
+  color: #5b5b5b;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 18.33%;
+  left: 77.91%;
+  width: 3.76%;
+  bottom: 37.68%;
+  top: 60.45%;
+  height: 1.87%;
+}
+._1991 {
+  color: #5b5b5b;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 87.09%;
+  left: 9.14%;
+  width: 3.76%;
+  bottom: 37.68%;
+  top: 60.45%;
+  height: 1.87%;
+}
+._1995 {
+  color: #5b5b5b;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 78.49%;
+  left: 17.74%;
+  width: 3.76%;
+  bottom: 37.68%;
+  top: 60.45%;
+  height: 1.87%;
+}
+._1999 {
+  color: #5b5b5b;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 69.89%;
+  left: 26.34%;
+  width: 3.76%;
+  bottom: 37.68%;
+  top: 60.45%;
+  height: 1.87%;
+}
+._2003 {
+  color: #5b5b5b;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 61.31%;
+  left: 34.93%;
+  width: 3.76%;
+  bottom: 37.68%;
+  top: 60.45%;
+  height: 1.87%;
+}
+._2007 {
+  color: #5b5b5b;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 52.71%;
+  left: 43.53%;
+  width: 3.76%;
+  bottom: 37.68%;
+  top: 60.45%;
+  height: 1.87%;
+}
+._2011 {
+  color: #5b5b5b;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 44.11%;
+  left: 52.13%;
+  width: 3.76%;
+  bottom: 37.68%;
+  top: 60.45%;
+  height: 1.87%;
+}
+._2015 {
+  color: #5b5b5b;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 35.52%;
+  left: 60.72%;
+  width: 3.76%;
+  bottom: 37.68%;
+  top: 60.45%;
+  height: 1.87%;
+}
+._2019 {
+  color: #5b5b5b;
+  text-align: center;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 26.92%;
+  left: 69.32%;
+  width: 3.76%;
+  bottom: 37.68%;
+  top: 60.45%;
+  height: 1.87%;
+}
+.vertical-axis {
+  width: 47.31px;
+  height: 456.58px;
+  position: static;
+}
+.tick-labels2 {
+  width: 47.31px;
+  height: 456.58px;
+  position: static;
+}
+._02 {
+  color: #5b5b5b;
+  text-align: right;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 95.45%;
+  left: 2.63%;
+  width: 1.92%;
+  bottom: 39.34%;
+  top: 58.8%;
+  height: 1.87%;
+}
+._60 {
+  color: #5b5b5b;
+  text-align: right;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 95.45%;
+  left: 0.7%;
+  width: 3.85%;
+  bottom: 54.39%;
+  top: 43.75%;
+  height: 1.87%;
+}
+._120 {
+  color: #5b5b5b;
+  text-align: right;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 95.45%;
+  left: -1.22%;
+  width: 5.77%;
+  bottom: 69.44%;
+  top: 28.69%;
+  height: 1.87%;
+}
+._180 {
+  color: #5b5b5b;
+  text-align: right;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 13.5px;
+  font-weight: 400;
+  position: absolute;
+  right: 95.45%;
+  left: -1.22%;
+  width: 5.77%;
+  bottom: 84.49%;
+  top: 13.64%;
+  height: 1.87%;
+}
+.horizontal-grid-lines {
+  width: 76.25%;
+  height: 15.05%;
+  position: absolute;
+  right: 18.62%;
+  left: 5.14%;
+  bottom: 40.13%;
+  top: 44.82%;
+  overflow: visible;
+}
+.vertical-color-legend {
+  width: 232.94px;
+  height: 96.75px;
+  position: static;
+}
+.labels2 {
+  width: 219.44px;
+  height: 96.75px;
+  position: static;
+}
+.one-sided-violence {
+  color: #000000;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 12.600000381469727px;
+  font-weight: 400;
+  position: absolute;
+  right: 65.12%;
+  left: 8.12%;
+  width: 26.76%;
+  bottom: 85.77%;
+  top: 12.48%;
+  height: 1.75%;
+}
+.extrasystemic {
+  color: #000000;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 12.600000381469727px;
+  font-weight: 400;
+  position: absolute;
+  right: 72.62%;
+  left: 8.12%;
+  width: 19.26%;
+  bottom: 83.71%;
+  top: 14.54%;
+  height: 1.75%;
+}
+.non-state {
+  color: #000000;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 12.600000381469727px;
+  font-weight: 400;
+  position: absolute;
+  right: 77.88%;
+  left: 8.12%;
+  width: 14.01%;
+  bottom: 81.66%;
+  top: 16.59%;
+  height: 1.75%;
+}
+.intrastate {
+  color: #000000;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 12.600000381469727px;
+  font-weight: 400;
+  position: absolute;
+  right: 78.63%;
+  left: 8.12%;
+  width: 13.26%;
+  bottom: 79.6%;
+  top: 18.65%;
+  height: 1.75%;
+}
+.interstate {
+  color: #000000;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 12.600000381469727px;
+  font-weight: 400;
+  position: absolute;
+  right: 78.38%;
+  left: 8.12%;
+  width: 13.51%;
+  bottom: 77.55%;
+  top: 20.7%;
+  height: 1.75%;
+}
+.group {
+  width: 1.06%;
+  height: 9.26%;
+  position: absolute;
+  right: 92.47%;
+  left: 6.47%;
+  bottom: 77.83%;
+  top: 12.9%;
+  overflow: visible;
+}
+.sources2 {
+  width: 270.47px;
+  height: 63.75px;
+  position: static;
+}
+.data-source-uppsala-conflict-data-program-2024 {
+  color: #5b5b5b;
+  text-align: left;
+  font-family: "Lato-Bold", sans-serif;
+  font-size: 13.5px;
+  font-weight: 700;
+  position: absolute;
+  right: 61.41%;
+  left: 5.61%;
+  width: 32.98%;
+  bottom: 28.24%;
+  top: 65.19%;
+  height: 6.56%;
+}
+.note {
+  width: 624.02px;
+  height: 63.75px;
+  position: static;
+}
+.note-some-conflicts-affect-several-regions-the-sum-across-all-regions-can-therefore-be-higher-than-the-global-number {
+  color: #5b5b5b;
+  text-align: left;
+  font-family: "Lato-Bold", sans-serif;
+  font-size: 13.5px;
+  font-weight: 700;
+  position: absolute;
+  right: 18.29%;
+  left: 5.61%;
+  width: 76.1%;
+  bottom: 24.51%;
+  top: 68.92%;
+  height: 6.56%;
+}
+.bars-1-1 {
+  width: 74.88%;
+  height: 47.48%;
+  position: absolute;
+  right: 18.29%;
+  left: 6.83%;
+  bottom: 40.27%;
+  top: 12.26%;
+  object-fit: cover;
+}
+.title {
+  width: 358.79px;
+  height: 66px;
+  position: static;
+}
+.number-of-armed-conflicts-world {
+  color: #5b5b5b;
+  text-align: left;
+  font-family: "PlayfairDisplay-Bold", sans-serif;
+  font-size: 24.75px;
+  font-weight: 700;
+  position: absolute;
+  right: 59.39%;
+  left: 21.93%;
+  width: 18.69%;
+  bottom: 80.3%;
+  top: 19.11%;
+  height: 0.59%;
+}
+.subtitle {
+  width: 421.67px;
+  height: 67.29px;
+  position: static;
+}
+.group2 {
+  width: 421.67px;
+  height: 67.29px;
+  position: static;
+}
+.included-are-interstate-intrastate-extrasystemic-non-state-conflicts-and-one-sided-violence-that-were-ongoing-that-year {
+  color: #5b5b5b;
+  text-align: left;
+  font-family: "Lato-Regular", sans-serif;
+  font-size: 14.625px;
+  font-weight: 400;
+  position: absolute;
+  right: 56.11%;
+  left: 21.93%;
+  width: 21.96%;
+  bottom: 80.86%;
+  top: 18.54%;
+  height: 0.6%;
+}
+._540-people-dies-every-day-about-420-of-them-dies-by-indirect-deaths-caused-by-the-deterioration-of-economic-environmental-psychological-and-health-conditions {
+  color: #707070;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 140%;
+  letter-spacing: -0.04em;
+  font-weight: 400;
+  position: absolute;
+  left: 1277px;
+  top: 2734px;
+  width: 300.31px;
+  height: 118px;
+}
+.big-statement4 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 860.84px;
+  height: 187px;
+  position: absolute;
+  left: 402px;
+  top: 2422px;
+  overflow: hidden;
+}
+.the-effect-of-social-distancing {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 60px;
+  letter-spacing: -0.015em;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.by-interacting-with-fewer-people-an-infected-person-spreads-the-virus-less-try-the-options-below-to-see-the-effect-of-different-degrees-of-social-distancing-numbers-here-are-purely-representative {
+  color: #707070;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 22px;
+  line-height: 140%;
+  letter-spacing: -0.015em;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.divider5 {
+  width: 14.58px;
+  height: 5px;
+  position: absolute;
+  left: 402px;
+  top: 2363px;
+}
+.this-many-has-died-by-war-every-day {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 27px;
+  font-weight: 600;
+  position: absolute;
+  left: 1277px;
+  top: 2647px;
+  width: 271.88px;
+  height: 52px;
+}
+.group-21-1-1 {
+  width: 828px;
+  height: 748px;
+  position: absolute;
+  left: 409px;
+  top: 2647px;
+  object-fit: cover;
+}
